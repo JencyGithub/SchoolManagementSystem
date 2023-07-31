@@ -1,0 +1,28 @@
+    .col-sm-12{
+        /* background-color: rgba(159, 144, 117, 0.463);
+         */
+        /* background-image: url('img\b26.jpg'); */
+        color: white;
+        padding-top: 40%;
+        padding-bottom: 14.3%;
+        width: 100%;
+    }
+body{
+    background-color: #b3d4fc36;
+}
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #8e8ebc;
+    /* text-shadow: 2px 1px #081d4a; */
+    /* text-shadow: 3px 3px 5px #081d4a; */
+    /* padding: 10px; */
+}
+
+.text-my{
+    color: #fd5f00 !important;
+}
+.dropdown-item:active{
+    background-color: #fff;
+
+}
+
